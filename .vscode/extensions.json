@@ -1,0 +1,55 @@
+{
+  "additionalRecommendations": [
+    "continue.continue",
+    "foxundermoon.shell-format",
+    "gocodeo.gocodeo",
+    "google.geminicodeassist",
+    "taichikubo.dired-plus"
+  ],
+  "gitpodAlternativeRecommendations": [
+    "fittentech.fitten-code",
+    "nick-rudenko.back-n-forth",
+    "vscode.github-authentication"
+  ],
+  "onlyDesktopSupported": [
+    "quentinguidee.gitignore-ultimate"
+  ],
+  "onlyGitpodSupported": [
+    "solomonkinard.git-files"
+  ],
+  "onlyVscodeSupported": [
+    "github.copilot",
+    "github.copilot-chat"
+  ],
+  "recommendations": [
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "github.vscode-pull-request-github",
+    "hashhar.gitattributes",
+    "huizhou.githd",
+    "mhutchie.git-graph",
+    "moshfeu.compare-folders",
+    "moshfeu.diff-merge",
+    "piotrpalarz.vscode-gitignore-generator",
+    "pkief.material-icon-theme",
+    "ryu1kn.partial-diff",
+    "semanticdiff.semanticdiff",
+    "sleistner.vscode-fileutils",
+    "vscode.configuration-editing",
+    "vscode.git",
+    "vscode.git-base",
+    "vscode.github",
+    "vscode.json",
+    "vscode.json-language-features",
+    "vscode.merge-conflict",
+    "vscode.references-view",
+    "vscode.ruby",
+    "vscode.search-result",
+    "vscode.terminal-suggest"
+  ],
+  "recommendationsFromGitHub": [
+  ],
+  "vscodeAlternativeRecommendations": [
+    "vscode.theme-defaults"
+  ]
+}
